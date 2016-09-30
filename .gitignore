@@ -67,3 +67,6 @@ target/
 
 # nii images
 *.nii.gz
+
+# jupyter automatically-generated files
+**/.ipynb_checkpoints
